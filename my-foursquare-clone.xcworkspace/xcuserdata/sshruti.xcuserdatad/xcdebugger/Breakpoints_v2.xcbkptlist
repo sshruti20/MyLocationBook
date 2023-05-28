@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3EF2360E-B4A6-47A6-B112-BF6BB04ECDEE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AF2B96B-1F13-4E69-B454-E8A91F559B50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "my-foursquare-clone/AddPlaceVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "imageClicked()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5AF2B96B-1F13-4E69-B454-E8A91F559B50 - 4f0836e268ee39d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "my_foursquare_clone.AddPlaceVC.imageClicked() -&gt; ()"
+                  moduleName = "my-foursquare-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sshruti/Desktop/Programming/my-foursquare-clone/my-foursquare-clone/AddPlaceVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "5AF2B96B-1F13-4E69-B454-E8A91F559B50 - 4f0836e268ee3906"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "my_foursquare_clone.AddPlaceVC.imageClicked() -&gt; ()"
+                  moduleName = "my-foursquare-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sshruti/Desktop/Programming/my-foursquare-clone/my-foursquare-clone/AddPlaceVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
